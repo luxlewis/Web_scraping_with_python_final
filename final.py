@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 
 import requests
-import pandas as pd
 
 url = "https://www.programmableweb.com/category/tools/api"
 api_no = 0
